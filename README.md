@@ -1,2 +1,2 @@
-# topicos-exercicio-01
-Base do exercício 01 de Tópicos Especiais
+# front-end-exercicio-lista
+Base do exercício de lista de compras em React.js
